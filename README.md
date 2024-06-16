@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A driven IT graduate student specialising in Computing at the University of Melbourne, Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **AWS, .NET**
+- 🌱 I’m currently learning **Angular.js**
 
 - 📫 How to reach me **franco52048@gmail.com**
 
