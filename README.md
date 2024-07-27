@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A driven IT graduate student specialising in Computing at the University of Melbourne, Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **franco52048@gmail.com**
 
-- 📄 Know about my [experiences](https://franco-s-resume.netlify.app/Franco-s-Resume.pdf)
+- 📄 Know about my [**experiences**](https://franco-s-resume.netlify.app/Franco-s-Resume.pdf)
 
 - ⚡ Fun fact **I love drinking and making coffee**
 
