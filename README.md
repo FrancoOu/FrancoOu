@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **franco52048@gmail.com**
 
-- 📄 Know about my experiences [https://franco-s-resume.netlify.app/](https://franco-s-resume.netlify.app/)
+- 📄 Know about my [experiences](https://franco-s-resume.netlify.app/Franco-s-Resume.pdf)
 
 - ⚡ Fun fact **I love drinking and making coffee**
 
